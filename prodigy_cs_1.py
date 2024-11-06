@@ -18,7 +18,7 @@ def decrypt(message, shift_value):
 
 def main():
     print("Welcome to sinan's Caesar Cipher!")
-    operation = input("Do you want to encrypt or decrypt? ").lower()
+    operation = input("Do you want  to encrypt or decrypt? ").lower()
     message = input("Enter your message: ")
     shift_value = int(input("Enter shift value: "))
 
