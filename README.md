@@ -1,5 +1,5 @@
 # PRODIGY_CS_01
-Task 1 of cybersecurity internship .
+python based caesar cipher encryption/decryption tool.
 
 This Python script implements the Caesar Cipher, a basic encryption technique where each letter in the text is shifted by a certain number of positions in the alphabet.
 
